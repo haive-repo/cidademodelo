@@ -43,6 +43,15 @@ p {
   margin-bottom: 15px;
 }
 
+q {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: Hind, sans-serif;
+  color: #515769;
+  line-height: 1.4;
+  margin-bottom: 15px;
+}
+
 em,
 li,
 li a {
@@ -602,8 +611,8 @@ fieldset[disabled] .btn-theme {
 
 /* Navbar Logo */
 .header .logo {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   float: left;
   max-height: 95px;
   line-height: 65px;
